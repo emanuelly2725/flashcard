@@ -1,5 +1,5 @@
 :root {
-    --text-color:#00008B
+    --text-color:: #1E90FF; 
     --card-front-color: #000000
     --card-back-color: #00F4BF;
 }
