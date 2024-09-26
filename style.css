@@ -1,9 +1,7 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #000000
-    --card-back-color: #00F4BF;
-}
-
+    --card-front-color: #191970
+    --card-back-color: #191970
 body {
     background: url(url(emanuelly2725/flashcard/fundo.jpg)
     font-family: Bai Jamjuree;
@@ -113,4 +111,3 @@ footer p {
     .cartao__conteudo p {
         font-size: 3.8vw;
     }
-}
