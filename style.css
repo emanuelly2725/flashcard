@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(url(emanuelly2725/flashcard/fundo rosa.jpg);
+    background: url(url(emanuelly2725/flashcard/fundo.jpg)
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url(url(emanuelly2725/flashcard/fundo rosa.jpg);
+        background: url(url(emanuelly2725/flashcard/fundo.jpg)
     }
 
     .cartao {
